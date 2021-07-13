@@ -9,6 +9,6 @@ client: Start Bootstrap
 title: Consultation
 category: Which is the better option? Web or Mobile
 category-desc: Most of the time people end-up developing mobile apps but mobile app is not best solution for many businesses. Schedule a call to get free analysis.
-price: $0
+price: $399
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
